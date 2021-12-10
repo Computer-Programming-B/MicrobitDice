@@ -28,7 +28,7 @@ Suggested steps to completing this assignment
 
 Extensions
 ----------
-TBD
+You can add animations to make "rolling the dice" more dramatic. You could also simulate dice with different numbers of faces like the dice used in Dungeons and Dragons.
 
 Samples of Student Work
 ----------
