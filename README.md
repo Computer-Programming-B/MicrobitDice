@@ -22,7 +22,7 @@ Program requirements
 
 Random Numbers in Python
 ------------------------
-Python has a module (part of a larger collection of code called a "library") with a number of useful functions for random numbers. To use this module you need to add `import random` at the top of the program. For this assignment, we'll use the `randint()` function which takes two arguments:   
+Python has a module (part of a larger collection of code called a "library") with a number of useful functions for random numbers. To use this module you need to add `import random` at the top of the program (see the sample code with a confused face above). For this assignment, we'll use the `randint()` function which takes two arguments:   
 `random.randint(a, b)`  
 It return a random integer between a and be inclusive.   
 
