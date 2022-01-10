@@ -1,6 +1,6 @@
 micro:bit Dice
 --------------------
-In this assignment you will program your micro:bit to simulate a single die cube. When you shake your micro:bit it will generate a random pattern of dots from 1 to 6. Here is a simple program that displays an image of a confused face for 1 second when the micro:bit is shaken:
+In this assignment you will program your micro:bit to simulate a single die cube. When you shake your micro:bit it will generate a random pattern of dots from 1 to 6. You may find slides 58 - 70 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment. Here is a simple program that displays an image of a confused face for 1 second when the micro:bit is shaken:
 ```python
 from microbit import *
 import random
