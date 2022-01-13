@@ -30,7 +30,7 @@ Suggested steps to completing this assignment
 ----------
 1. Start with the sample program above
 2. Between lines 10 and 11 create a variable `dots` and initialize it to a random number between 1 and 6. Make sure the code is indented so that it "belongs" to the `if accelerometer.was_gesture('shake'):`
-3. Replace `display.show(Image.confused) with an `if` statement that checks to see if `dots` is equal to 1. Underneath, display an image with one dot
+3. Replace `display.show(Image.confused)` with an `if` statement that checks to see if `dots` is equal to 1. Underneath, display an image with one dot
 4. Add 5 more if statements for the numbers 2 - 6
 
 Extensions
