@@ -39,4 +39,7 @@ You can add animations to make "rolling the dice" more dramatic. You could also 
 
 Samples of Student Work
 ----------
-*none yet!*
+[Allison](AllisonDice.gif)   
+[Cali](CaliDice.GIF)   
+[Isaac](IsaacDice.GIF)   
+[Linen](LinenDice.GIF)   
