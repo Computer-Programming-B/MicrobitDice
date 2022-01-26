@@ -44,6 +44,7 @@ Samples of Student Work
 [Cali](CaliDice.GIF)   
 [Emerson](EmersonDice.gif)   
 [Sandy](StephanieDice.gif)   
+[Cilla](CillaDice.GIF)   
 [Isaac](IsaacDice.GIF)   
 [Stephanie](StephanieDice.gif)   
 [Linen](LinenDice.GIF)   
