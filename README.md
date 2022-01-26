@@ -43,5 +43,6 @@ Samples of Student Work
 [Allison](AllisonDice.gif)   
 [Cali](CaliDice.GIF)   
 [Isaac](IsaacDice.GIF)   
+[Stephanie](StephanieDice.gif)   
 [Linen](LinenDice.GIF)   
 [Jasmine](JasmineDice.gif)   
