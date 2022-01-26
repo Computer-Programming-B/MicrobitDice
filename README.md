@@ -43,3 +43,4 @@ Samples of Student Work
 [Cali](CaliDice.GIF)   
 [Isaac](IsaacDice.GIF)   
 [Linen](LinenDice.GIF)   
+[Jasmine](JasmineDice.gif)   
