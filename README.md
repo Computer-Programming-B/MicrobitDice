@@ -42,6 +42,7 @@ Samples of Student Work
 [Yangyang](Yangyandice.gif)   
 [Allison](AllisonDice.gif)   
 [Cali](CaliDice.GIF)   
+[Sandy](StephanieDice.gif)   
 [Isaac](IsaacDice.GIF)   
 [Stephanie](StephanieDice.gif)   
 [Linen](LinenDice.GIF)   
